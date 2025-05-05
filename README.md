@@ -38,3 +38,10 @@ Detailed property viewing
 Secure checkout process
 User authentication
 
+
+
+Page.                          Description 
+Property search and filtering  Grid display of available properties with filters
+Detailed property viewing      Complete property details with images and booking form
+Secure checkout process        Streamlined payment and booking confirmation
+
